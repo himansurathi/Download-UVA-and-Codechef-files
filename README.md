@@ -1,8 +1,7 @@
 # Download-UVA-files
-Download all the problems of UVA Online Judge from its website  
-There is a collection of all problems in pdf format available in this [link](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=1)
+The problems of UVA online judge are structured in various folders and where numbered sequentially.The main aim of this small python script is to ***successfully download all the problem files in pdf format*** in our computer hard drive.
 
-	The problems of UVA online judge are structured in various folders and where numbered sequentially. The main aim of this small python script is to successfully download all the problem files in pdf format in our computer hard drive.
+There is a collection of all problems in pdf format available in this [link](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=1)
 
 ### Motivation
 
@@ -14,7 +13,7 @@ There is a collection of all problems in pdf format available in this [link](htt
 >me achieve the same
 
 License
-----
+---------
 
 GNU GENERAL PUBLIC LICENSE 2.0
 
@@ -39,10 +38,10 @@ UVA problems.
 
 The following are the features:
 
-* The pdf files will be downloaded in slots of folders like 1-100 files in a single folder, 2- 100 in another problem and so on....
-* Use of urlib2 of python to open each of the pdf files individually so that we can read them.	
-* Informing about each successful download of individual pdf file, each directory download is completed as well as when the total download is also completed.
-* Generic URL of all pdf files: http://uva.onlinejudge.org/external/<jthfolder>/<ithfile>.pdf 
+* The pdf files will be downloaded **in slots** of folders like 1-100 files in a single folder, 2- 100 in another problem and so on....
+* Use of **urlib2** library of python to open each of the pdf files individually so that we can read them.	
+* Informing about each download of **individual pdf file, each directory and total download** too.
+* Generic URL of all pdf files: http://uva.onlinejudge.org/external/jthfolder/ithfile.pdf , where i and j are integers 
 
 
 
