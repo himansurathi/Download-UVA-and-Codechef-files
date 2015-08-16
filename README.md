@@ -14,13 +14,11 @@ Motivation
 I was quite interested in competitive programming and wanted to solve as many 
 problems of UVA to enhance my coding skills and become a  better programmer. 
 So a thought crossed my mind that why not download all the problems available in UVA 
-in pdf format so that I would be able to at least think and read problems even in offline 
+in pdf format so that I would be able to at least think and read problems even in off-line 
 mode.
-
 	Recently I had learnt python and realised that it has various libraries for helping 
 me achieve the same
 
- 
 Version 1
 
 Requirements 
