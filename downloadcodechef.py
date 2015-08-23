@@ -1,3 +1,5 @@
+# Script to download contest problems from codechef
+
 import urllib2 # needed for functions,classed for opening urls.
 import os
 import shutil
