@@ -1,4 +1,4 @@
-import urllib2                                                # needed for functions,classed for opening urls.
+import urllib2  # needed for functions,classed for opening urls.
 import os
 import shutil
 

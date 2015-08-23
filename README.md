@@ -1,8 +1,12 @@
 # Download-UVA-files
+
 Download all the problems of UVA Online Judge from its website  
 There is a collection of all problems in pdf format available in this [link](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=1)
-    The problems of UVA online judge are structured in various folders and where numbered sequentially.  
-	The main aim of this small python script is to successfully download all the problem files in pdf format in our computer hard drive.
+The problems of UVA online judge are structured in various folders and where numbered sequentially.  
+The main aim of this small python script is to successfully download all the problem files in pdf format in our computer hard drive.
+The problems of UVA online judge are structured in various folders and where numbered sequentially.
+The main aim of this small python script is to ***successfully download all the problem files in pdf format*** in our computer hard drive.
+There is a collection of all problems in pdf format available in this [link](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=1)
 
 ### Motivation
 
