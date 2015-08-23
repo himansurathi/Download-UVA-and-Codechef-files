@@ -20,7 +20,7 @@ License
 GNU GENERAL PUBLIC LICENSE 2.0
 
 ### Version 
-1.1.0
+1.2.0
 
 ### Requirements 
 
@@ -44,11 +44,14 @@ The following are the features:
 * Use of **urlib2** library of python to open each of the pdf files individually so that we can read them.	
 * Informing about each download of **individual pdf file, each directory and total download** too.
 * Generic URL of all pdf files: http://uva.onlinejudge.org/external/jthfolder/ithfile.pdf , where i and j are integers 
-
-New features Added in this version:
 * Reports the type of error for all the file which were unable to download.
 * Shows a command line download bar to indicate the progress of each file.
 * Overwrite an existing folder with same name so that there is no clash with the previous files.
+
+New features Added in this version:
+* User can paused downloads which can be resumed later.
+* Reports all those files which have been paused seperately.
+* Updated the source code to support object-oriented model.
 
 ### Testing Environment 
 
